@@ -1,0 +1,6 @@
+@Practice_Identity_and_Data_Protection_HostAddress = http://localhost:5062
+
+GET {{Practice_Identity_and_Data_Protection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
